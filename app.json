@@ -4,7 +4,7 @@
     "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
     "stack": "container",
     "keywords": ["telegram", "auto-filter"],
-    "website": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "website": "https://github.com/Akpunk13/PROFESSOR-BOT",
     "repository": "https://github.com/Akpunk13/PROFESSOR-BOT",
     "env": {
         "BOT_TOKEN": {
